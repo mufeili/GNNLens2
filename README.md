@@ -6,7 +6,7 @@ GNNLens2 is an interactive visualization tool for graph neural networks (GNN). I
 
 The video below is a demo.
 
-![![IMAGE ALT TEXT HERE](resources/demo.png)](https://www.youtube.com/watch?v=eBI_lyzsg3M)
+![![IMAGE ALT TEXT HERE]("resources/demo.png")](https://www.youtube.com/watch?v=eBI_lyzsg3M)
 
 ## Installation
 
